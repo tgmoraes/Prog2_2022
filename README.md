@@ -11,3 +11,55 @@ Repositório dos códigos de exemplo utilizados na disciplina de **Programação
 
 
 
+
+<!--
+
+## aula 2
+Conceitos iniciais de OO: 
+* Classes e Objetos
+* atributos e métodos
+
+
+## aula 3
+Encapsulamento: 
+* modificadores de acesso: public e private
+* construtores
+* getters e setters
+
+## aula 4
+Refinando classes: 
+* elementos mutáveis e imutáveis
+* elemntos estáticos
+* classe Object - toString() e equals()
+* igualdade e comparação de objetos
+
+## aula 5
+Associando classes: 
+* tipos de associação
+* composição e agregação
+* UML - diagrama de classes
+
+## aula 6
+Herança:
+* herança entre classes
+* modificador de acesso protectec
+* reescrita de método
+
+## aula 7
+Classes abstratas e polimorfismo:
+* classes abstratas X classes concretas
+* métodos abstratos
+* ganhos do polimorfismo
+
+## aula 8
+Interfaces:
+* criação de interfaces
+* implementação de interfaces
+* ganhos do polimorfismo
+
+## aula 9
+Exceptions:
+* bloco try/catch e lançando uma exception
+* exceptions verificadas e não verificadas
+* criando as nossas próprias exceptions
+-->

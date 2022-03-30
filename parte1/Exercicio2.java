@@ -1,4 +1,4 @@
-package aula1;
+package parte1;
 
 public class Exercicio2 {
 
