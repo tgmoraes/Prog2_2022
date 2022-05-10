@@ -4,6 +4,8 @@ public class TestaLivro {
 	public static void main(String[] args) {
 		//criar e inicializar um objeto de Livro
 		Livro orgPrec = new Livro();
+		Livro hobbit = new Livro();
+		
 		orgPrec.titulo = "Orgulho e Preconceito";
 		orgPrec.paginas = 424;
 		orgPrec.pagLidas = 0;

@@ -11,21 +11,19 @@ Repositório dos códigos de exemplo utilizados na disciplina de **Programação
 
 
 
-
-<!--
-
-## aula 2
+## parte 3
 Conceitos iniciais de OO: 
 * Classes e Objetos
 * atributos e métodos
 
 
-## aula 3
+## parte 4
 Encapsulamento: 
 * modificadores de acesso: public e private
 * construtores
 * getters e setters
 
+<!--
 ## aula 4
 Refinando classes: 
 * elementos mutáveis e imutáveis
