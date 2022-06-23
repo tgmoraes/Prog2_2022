@@ -23,13 +23,15 @@ Encapsulamento:
 * construtores
 * getters e setters
 
+
+## parte 5
+Refinando classes: 
+* classe Object - toString() e equals()
+* elementos estáticos
+* elementos mutáveis e imutáveis
+
 <!--
 ## aula 4
-Refinando classes: 
-* elementos mutáveis e imutáveis
-* elemntos estáticos
-* classe Object - toString() e equals()
-* igualdade e comparação de objetos
 
 ## aula 5
 Associando classes: 
