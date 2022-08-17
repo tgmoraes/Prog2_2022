@@ -9,13 +9,10 @@ Repositório dos códigos de exemplo utilizados na disciplina de **Programação
 ## Parte 2
 * Programação modular --> dividir para conquistar, criando funções modulares com o Java.
 
-
-
 ## parte 3
 Conceitos iniciais de OO: 
 * Classes e Objetos
 * atributos e métodos
-
 
 ## parte 4
 Encapsulamento: 
@@ -30,15 +27,17 @@ Refinando classes:
 * elementos estáticos
 * elementos mutáveis e imutáveis
 
-<!--
-## aula 4
+## parte 6
+*trabalhando com datas no Java
+*validando parâmetros e lançando erros
 
-## aula 5
+## parte 7
 Associando classes: 
 * tipos de associação
 * composição e agregação
-* UML - diagrama de classes
+* ArrayLists
 
+<!--
 ## aula 6
 Herança:
 * herança entre classes

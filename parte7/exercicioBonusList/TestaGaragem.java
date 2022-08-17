@@ -1,4 +1,4 @@
-package parte7.exercicioBonusVet;
+package parte7.exercicioBonusList;
 
 public class TestaGaragem {
 
@@ -8,7 +8,6 @@ public class TestaGaragem {
 		Carro ka = new Carro("Ka");
 		
 		Garagem gar = new Garagem("garagem legal", "rua deis! num 10", 5);
-		
 		gar.estaciona(clio);
 		gar.estaciona(argo);
 		gar.estaciona(ka);
