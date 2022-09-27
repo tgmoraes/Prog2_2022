@@ -37,13 +37,13 @@ Associando classes:
 * composição e agregação
 * ArrayLists
 
-<!--
-## aula 6
+## aula 8
 Herança:
 * herança entre classes
-* modificador de acesso protectec
+* modificador de acesso protected
 * reescrita de método
 
+<!--
 ## aula 7
 Classes abstratas e polimorfismo:
 * classes abstratas X classes concretas
