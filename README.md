@@ -37,20 +37,20 @@ Associando classes:
 * composição e agregação
 * ArrayLists
 
-## aula 8
+## parte 8
 Herança:
 * herança entre classes
 * modificador de acesso protected
 * reescrita de método
 
-<!--
-## aula 7
+## parte 9
 Classes abstratas e polimorfismo:
 * classes abstratas X classes concretas
 * métodos abstratos
 * ganhos do polimorfismo
 
-## aula 8
+<!--
+## parte 10
 Interfaces:
 * criação de interfaces
 * implementação de interfaces
